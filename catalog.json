@@ -1,6 +1,6 @@
 {
   "payload": {
-    "generatedAt": "2026-11-09T02:17:39.000Z",
+    "generatedAt": "2026-11-09T02:24:20.000Z",
     "id": "feiyu-extensions",
     "schemaVersion": 1,
     "packages": [
@@ -61,13 +61,13 @@
           ],
           "version": "0.1.0"
         },
-        "publishedAt": "2026-11-09T02:17:39.000Z"
+        "publishedAt": "2026-11-09T02:24:20.000Z"
       }
     ]
   },
   "signature": {
     "algorithm": "sshsig",
     "keyId": "feiyu-extdev",
-    "value": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgxJ3LJY+m5SATsIlCYX45ZT8owr\nLfmX8kD59DotX3NWEAAAAXYWktYnVkZHktcGx1Z2luLWNhdGFsb2cAAAAAAAAABnNoYTUx\nMgAAAFMAAAALc3NoLWVkMjU1MTkAAABARmJc3Y4lTdubUctVpDxP3oUuJajQWCT60/Ah5f\nkfu7h8C9UWaxaQHJf1sWG3f62MaI6DCnUIo1EwWq0MxGo7CA==\n-----END SSH SIGNATURE-----"
+    "value": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgxJ3LJY+m5SATsIlCYX45ZT8owr\nLfmX8kD59DotX3NWEAAAAXYWktYnVkZHktcGx1Z2luLWNhdGFsb2cAAAAAAAAABnNoYTUx\nMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAq9AV6CNUUzanVh92CDrh8djZPJEL3Q85aNA7Ff\nhgDbJ6n2hb5Iiqx68eETSJKQQNlKlJeFjBNMi2GDqkqyk4Dg==\n-----END SSH SIGNATURE-----"
   }
 }

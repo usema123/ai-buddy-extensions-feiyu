@@ -1,0 +1,73 @@
+{
+  "payload": {
+    "generatedAt": "2026-11-09T02:17:39.000Z",
+    "id": "feiyu-extensions",
+    "schemaVersion": 1,
+    "packages": [
+      {
+        "archive": {
+          "bytes": 1877,
+          "sha256": "cbac5625fa8824427d2c3b82533f65dd16cf9ceddb6adde4da69852bde58b3c9",
+          "url": "https://raw.githubusercontent.com/usema123/ai-buddy-extensions-feiyu/main/feiyu-dashboard-0.1.0.zip"
+        },
+        "manifest": {
+          "activationEvents": [],
+          "apiRange": "^1.0.0",
+          "appRange": ">=2.0.0",
+          "arch": "x64",
+          "author": "feiyu",
+          "capabilities": [
+            "commands.register",
+            "ui.registerPage"
+          ],
+          "category": "ui",
+          "compatibleDataVersions": [
+            1
+          ],
+          "dataSchemaVersion": 1,
+          "dependencies": {},
+          "description": "把鱼鱼家的器官/插件/记忆状态显示在 AI 酱里（只读）。需要本机 127.0.0.1:8765 状态桥。",
+          "entry": "index.mjs",
+          "feedbackUrl": "https://github.com/usema123/ai-buddy-extensions-feiyu/issues",
+          "files": [
+            {
+              "path": "package.json",
+              "bytes": 505,
+              "sha256": "fa274c34a14df8bb9183313636c25e92f789cd28da2a4112b64877bfb4671da3"
+            },
+            {
+              "path": "index.mjs",
+              "bytes": 1287,
+              "sha256": "9b2a6e516f9e677aacf376b2959f1547c38f8cead70d97e68b4ea48b90aac473"
+            },
+            {
+              "path": "README.md",
+              "bytes": 640,
+              "sha256": "75331a1342b274830fa0303369817d75978a5509d926fde20778d16bcc7364a5"
+            }
+          ],
+          "homepage": "https://github.com/usema123/ai-buddy-extensions-feiyu",
+          "id": "ai-buddy.feiyu-dashboard",
+          "kind": "plugin",
+          "license": "MIT",
+          "name": "鱼鱼仪表盘",
+          "platform": "win32",
+          "repository": "https://github.com/usema123/ai-buddy-extensions-feiyu",
+          "schemaVersion": 1,
+          "tags": [
+            "feiyu",
+            "dashboard",
+            "monitor"
+          ],
+          "version": "0.1.0"
+        },
+        "publishedAt": "2026-11-09T02:17:39.000Z"
+      }
+    ]
+  },
+  "signature": {
+    "algorithm": "sshsig",
+    "keyId": "feiyu-extdev",
+    "value": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgxJ3LJY+m5SATsIlCYX45ZT8owr\nLfmX8kD59DotX3NWEAAAAXYWktYnVkZHktcGx1Z2luLWNhdGFsb2cAAAAAAAAABnNoYTUx\nMgAAAFMAAAALc3NoLWVkMjU1MTkAAABARmJc3Y4lTdubUctVpDxP3oUuJajQWCT60/Ah5f\nkfu7h8C9UWaxaQHJf1sWG3f62MaI6DCnUIo1EwWq0MxGo7CA==\n-----END SSH SIGNATURE-----"
+  }
+}

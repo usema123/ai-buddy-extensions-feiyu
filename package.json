@@ -1,0 +1,23 @@
+{
+  "name": "@feiyu/ai-buddy-dashboard",
+  "version": "0.1.0",
+  "description": "鱼鱼仪表盘：把家里的器官 / 插件 / 记忆状态显示在 AI 酱里（只读监控）",
+  "type": "module",
+  "main": "index.mjs",
+  "files": [
+    "index.mjs",
+    "README.md"
+  ],
+  "license": "MIT",
+  "aiBuddy": {
+    "bridgeVersion": "1.3.0",
+    "dataSchemaVersion": 1,
+    "capabilities": [
+      "ui.registerPage",
+      "commands.register"
+    ],
+    "features": [
+      "feiyu-dashboard-v1"
+    ]
+  }
+}

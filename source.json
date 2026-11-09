@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "feiyu-extensions",
   "name": "鱼鱼扩展源",
-  "catalogUrl": "https://cdn.jsdelivr.net/gh/usema123/ai-buddy-extensions-feiyu@main/catalog-v4.json",
+  "catalogUrl": "https://cdn.jsdelivr.net/gh/usema123/ai-buddy-extensions-feiyu@main/catalog-v5.json",
   "publicKey": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMSdyyWPpuUgE7CJQmF+OWU/KMKy35l/JA+fQ6LV9zVh",
   "keyId": "feiyu-extdev",
   "repositoryUrl": "https://github.com/usema123/ai-buddy-extensions-feiyu",

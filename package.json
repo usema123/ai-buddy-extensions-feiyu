@@ -12,9 +12,7 @@
   "aiBuddy": {
     "bridgeVersion": "1.3.0",
     "dataSchemaVersion": 1,
-    "capabilities": [
-      "ui.registerPage"
-    ],
+    "capabilities": [],
     "features": [
       "feiyu-dashboard-v1"
     ]

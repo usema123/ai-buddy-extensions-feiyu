@@ -13,8 +13,7 @@
     "bridgeVersion": "1.3.0",
     "dataSchemaVersion": 1,
     "capabilities": [
-      "ui.registerPage",
-      "commands.register"
+      "ui.registerPage"
     ],
     "features": [
       "feiyu-dashboard-v1"

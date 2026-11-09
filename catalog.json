@@ -1,13 +1,13 @@
 {
   "payload": {
-    "generatedAt": "2026-11-09T02:24:20.000Z",
+    "generatedAt": "2026-11-09T02:30:01.000Z",
     "id": "feiyu-extensions",
     "schemaVersion": 1,
     "packages": [
       {
         "archive": {
-          "bytes": 1877,
-          "sha256": "cbac5625fa8824427d2c3b82533f65dd16cf9ceddb6adde4da69852bde58b3c9",
+          "bytes": 1867,
+          "sha256": "95d42c8b1e77966dedb64923f94d2b5b46d5d60f7d1e7c89aaf5028992907d1b",
           "url": "https://raw.githubusercontent.com/usema123/ai-buddy-extensions-feiyu/main/feiyu-dashboard-0.1.0.zip"
         },
         "manifest": {
@@ -17,7 +17,6 @@
           "arch": "x64",
           "author": "feiyu",
           "capabilities": [
-            "commands.register",
             "ui.registerPage"
           ],
           "category": "ui",
@@ -32,8 +31,8 @@
           "files": [
             {
               "path": "package.json",
-              "bytes": 505,
-              "sha256": "fa274c34a14df8bb9183313636c25e92f789cd28da2a4112b64877bfb4671da3"
+              "bytes": 478,
+              "sha256": "2c8159f8294db97a11adbc0e3b9daa387b25e7b68985d1643e45490a146b40a1"
             },
             {
               "path": "index.mjs",
@@ -61,13 +60,13 @@
           ],
           "version": "0.1.0"
         },
-        "publishedAt": "2026-11-09T02:24:20.000Z"
+        "publishedAt": "2026-11-09T02:30:01.000Z"
       }
     ]
   },
   "signature": {
     "algorithm": "sshsig",
     "keyId": "feiyu-extdev",
-    "value": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgxJ3LJY+m5SATsIlCYX45ZT8owr\nLfmX8kD59DotX3NWEAAAAXYWktYnVkZHktcGx1Z2luLWNhdGFsb2cAAAAAAAAABnNoYTUx\nMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAq9AV6CNUUzanVh92CDrh8djZPJEL3Q85aNA7Ff\nhgDbJ6n2hb5Iiqx68eETSJKQQNlKlJeFjBNMi2GDqkqyk4Dg==\n-----END SSH SIGNATURE-----"
+    "value": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgxJ3LJY+m5SATsIlCYX45ZT8owr\nLfmX8kD59DotX3NWEAAAAXYWktYnVkZHktcGx1Z2luLWNhdGFsb2cAAAAAAAAABnNoYTUx\nMgAAAFMAAAALc3NoLWVkMjU1MTkAAABAjst+cRsPByLBTeXdG1vhI+Rh9CDsOo9uXdyW3F\n3bp863Tko6dUdGWOHNoH9EEVtNWv+Gv3JCpxR9YEKwLL2PCQ==\n-----END SSH SIGNATURE-----"
   }
 }
